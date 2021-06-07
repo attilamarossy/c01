@@ -1,2 +1,2 @@
 # c01
-First **C++** repo
+Hello World. This is a proxy test.
